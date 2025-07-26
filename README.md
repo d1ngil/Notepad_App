@@ -19,10 +19,13 @@ Allows users to take notes, open text files, save notes, and toggle between dark
 - Python 3.x
 - PyQt5
 
-![Light](notepad dark.png)
-![Dark](notepad light.png)
+## App View
+![Lightmode](./notepad light.png)
+![Darkmode](./notepad dark.png)
 
 ```bash
 pip install PyQt5
+
+
 
 
